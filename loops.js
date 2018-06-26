@@ -30,5 +30,5 @@ return Math.random() >= 0.5;
   while (array.length > 0 && maybeTrue());
  }
  return array;
-}
+
 
